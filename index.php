@@ -114,8 +114,8 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	/* $application_folder = 'application';*/
-$application_folder = 'applications';
+$application_folder = 'application';
+
 
 /*
  *---------------------------------------------------------------
